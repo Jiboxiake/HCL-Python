@@ -1,0 +1,16 @@
+/Users/libinzhou/Downloads/hcl_labels/Surat-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Quanzhou-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Dongguan-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Harbin-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Ahmedabad-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Pune-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Shenzhen-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Delhi-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Naples-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Istanbul-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Atlanta-label.hl
+/Users/libinzhou/Downloads/hcl_labels/London-label.hl
+/Users/libinzhou/Downloads/hcl_labels/NewYork-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Chicago-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Moscow-label.hl
+/Users/libinzhou/Documents/HCL-python/USA-road-d.NY.gr-label.hl
