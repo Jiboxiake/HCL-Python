@@ -7,3 +7,10 @@
 /Users/libinzhou/Downloads/hcl_labels/Shenzhen-label.hl
 /Users/libinzhou/Downloads/hcl_labels/Delhi-label.hl
 /Users/libinzhou/Downloads/hcl_labels/Naples-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Istambul-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Atlanta-label.hl
+/Users/libinzhou/Downloads/hcl_labels/London-label.hl
+/Users/libinzhou/Downloads/hcl_labels/NewYork-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Chicago-label.hl
+/Users/libinzhou/Downloads/hcl_labels/Moscow-label.hl
+/Users/libinzhou/Documents/HCL-python/USA-road-d.NY.gr-label.hl
